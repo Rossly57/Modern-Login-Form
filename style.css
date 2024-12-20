@@ -213,17 +213,17 @@ input::placeholder {
 
 @media (max-width: 768px) {
   .login-container {
-      width: 80%; /* Ekranın büyük kısmını kapsayacak şekilde */
-      height: auto; /* Yükseklik esnek olacak şekilde */
+      width: 80%;
+      height: auto; 
   }
 
   .header {
-      font-size: 25px; /* Daha küçük font boyutu */
-      height: 10vh; /* Daha küçük başlık alanı */
+      font-size: 25px; 
+      height: 10vh; 
   }
 
   .username-area input, .password-area input, .button-area button {
-      width: 70%; /* Genişlik daha büyük yapılarak alanı daha verimli kullanır */
+      width: 70%; 
       height: 5vh;
   }
   .remember-me-checkbox{
@@ -241,15 +241,15 @@ input::placeholder {
     font-size: 120%;
   }
   .forgot-password-area a, .sign-up-area a {
-      font-size: 14px; /* Daha küçük yazı boyutu */
+      font-size: 14px; 
   }
 
   .sign-up-div, .forgot-password-div {
-      width: 70%; /* Daha büyük genişlikte */
-      height: 4vh; /* Esnek yükseklik */
+      width: 70%; 
+      height: 4vh; 
   }
   .sign-up-div{
-    width: 80%; /* Daha büyük genişlikte */
+    width: 80%; 
     height: 5vh
   }
   .remember-me-area label {
